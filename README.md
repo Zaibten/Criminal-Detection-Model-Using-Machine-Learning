@@ -1,4 +1,4 @@
-# Criminal Detection Using Machine Learning in Python 🚨
+# 🚀 Criminal Detection Using Machine Learning in Python 🚨
 
 # 🔍 Revolutionizing Security with AI
 I'm thrilled to share my latest project: a Criminal Detection System powered by Machine Learning! This system is designed to enhance safety by identifying and tracking criminals using advanced image recognition and behavior analysis techniques.
