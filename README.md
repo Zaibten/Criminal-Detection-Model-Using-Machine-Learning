@@ -27,3 +27,10 @@ I'm thrilled to share my latest project: a Criminal Detection System powered by 
 # 🚀 Let’s bring the power of AI to public safety! If you’re passionate about AI, I’d love to connect and discuss further.
 
 # 📸 Some Screenshots of the Project 🖼️✨
+![image](https://github.com/user-attachments/assets/6d102563-e6a4-4374-9873-ed80894eca2e)
+![image](https://github.com/user-attachments/assets/87386ad1-24ed-4ed4-b8a8-321f9a8144fd)
+![image](https://github.com/user-attachments/assets/be142863-58a2-42d1-b514-9045fe6f2714)
+![image](https://github.com/user-attachments/assets/72db9e9f-ece9-4d8a-9f23-75020af61c8c)
+
+
+
